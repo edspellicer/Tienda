@@ -1,9 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
-using Tienda.Web.Data.Entities;
-using Microsoft.EntityFrameworkCore;
+﻿using Tienda.Web.Data.Entities;
 
 namespace Tienda.Web.Data
 {
